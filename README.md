@@ -20,6 +20,10 @@ MC43 (Message Cipher 43) is a seeded algorithm for encoding and decoding message
 4. Run the following command to install dependencies (if any):
 
 ```sh
+git clone https://github.com/netzeper-predator/MC43.git
+```
+
+```sh
 npm install
 ```
 
