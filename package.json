@@ -1,0 +1,16 @@
+{
+  "name": "mc43",
+  "version": "2.0.0",
+  "description": "Message Cipher 43 Seeded Algorithm",
+  "keywords": [
+    "mc43",
+    "cipher"
+  ],
+  "license": "MIT",
+  "author": "Aditya Kunwar",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
